@@ -1,7 +1,8 @@
-----
--layout: post
--title: Hello!
-----
+ ---
+ layout: post
+-title: Up an Running!
++title: Hello!
+ ---
 
 These are some of the things I am doing at the moment (:point_down:).
 
